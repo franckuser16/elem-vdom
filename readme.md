@@ -223,7 +223,7 @@ getDOMNode: 'return root DOM node of the current render tree'
 But can I also create reusable components ?
 -----------------------------------
 
-Of course you can. You just need to to something like
+Of course you can. You just need to do something like
 
 ```javascript
 const Timer = Elem.component({
